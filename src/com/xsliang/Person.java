@@ -1,11 +1,13 @@
 package com.xsliang;
 
-public class Person {
+import java.io.Serializable;
+
+public class Person implements Serializable {
 	public long id;
 	public String name;
 	public Eyes eyes = new Eyes();
 
-	public static class Eyes {
+	public static class Eyes implements Serializable {
 		public String left = "zuoyan";
 		public String right = "youyan";
 	}
