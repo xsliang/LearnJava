@@ -1,4 +1,4 @@
-package com.xsliang;
+package JavaBasic.src.com.xsliang;
 
 public class Fish extends Animal {
 
