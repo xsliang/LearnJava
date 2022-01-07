@@ -3,7 +3,7 @@ import org.junit.jupiter.api.Test;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-import com.javadevmap.bean.ProductServiceBoth;
+import com.javadevmap.service.ProductServiceBoth;
 
 class TestAutowiredBoth {
 ProductServiceBoth productServiceBoth;

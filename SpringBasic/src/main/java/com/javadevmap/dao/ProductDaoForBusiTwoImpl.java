@@ -1,8 +1,6 @@
-package com.javadevmap.bean;
+package com.javadevmap.dao;
 
 import org.springframework.stereotype.Repository;
-
-import com.javadevmap.dao.IProductDao;
 
 @Repository("productDaoTwo")
 public class ProductDaoForBusiTwoImpl implements IProductDao {

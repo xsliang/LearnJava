@@ -1,4 +1,4 @@
-package JavaBasic.src.com.xsliang;
+package com.xsliang;
 
 public class ArithmeticOperator {
 	public static void testArithmeticOperator() {

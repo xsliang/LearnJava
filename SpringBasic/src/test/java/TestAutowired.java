@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-import com.javadevmap.bean.ProductService;
+import com.javadevmap.service.ProductService;
 
 class TestAutowired {
 	ProductService orderService;

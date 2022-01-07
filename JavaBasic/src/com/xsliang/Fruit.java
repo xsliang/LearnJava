@@ -1,4 +1,4 @@
-package JavaBasic.src.com.xsliang;
+package com.xsliang;
 
 public class Fruit {
 	public void print() {

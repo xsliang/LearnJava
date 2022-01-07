@@ -4,8 +4,8 @@ import org.junit.jupiter.api.Test;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-import com.javadevmap.bean.ProductDaoImpl;
 import com.javadevmap.dao.IProductDao;
+import com.javadevmap.dao.ProductDaoImpl;
 
 class TestAnnoCaseComponent {
 
